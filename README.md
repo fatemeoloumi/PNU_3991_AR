@@ -4,4 +4,4 @@
 - [Sop](https://fatemeoloumi.github.io/Sop/)
 - [GitHub](https://github.com/fatemeoloumi)
 - [Certificate](https://fatemeoloumi.github.io/PNU_3991_AR/certificateOfJavascript.pdf)
--[Latex](https://fatemeoloumi.github.io/latex/)
+- [Latex](https://fatemeoloumi.github.io/latex/)

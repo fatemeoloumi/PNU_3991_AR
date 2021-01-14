@@ -6,3 +6,7 @@
 - [Certificate](https://fatemeoloumi.github.io/PNU_3991_AR/certificateOfJavascript.pdf)
 - [patchwork](https://fatemeoloumi.github.io/patchwork-/)
 - [Latex](https://fatemeoloumi.github.io/latex/)
+-----------
+> ارزیابی ها
+## بخش عمومی 
+- [ارزیابی رزومه و انگیزه نامه](1_5186354639791980841.docx)

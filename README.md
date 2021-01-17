@@ -5,7 +5,9 @@
 - [GitHub](https://github.com/fatemeoloumi)
 - [Certificate](https://fatemeoloumi.github.io/PNU_3991_AR/certificateOfJavascript.pdf)
 - [patchwork](https://fatemeoloumi.github.io/patchwork-/)
-- [Latex](https://fatemeoloumi.github.io/latex/)
+- [Latex(tex)](fateme olomi.tex)
+- [Latex(pdf)](fateme olomi.pdf)
+
 -----------
 > ارزیابی ها
 ## بخش عمومی 

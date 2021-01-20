@@ -5,8 +5,12 @@
 - [GitHub](https://github.com/fatemeoloumi)
 - [Certificate](https://fatemeoloumi.github.io/PNU_3991_AR/certificateOfJavascript.pdf)
 - [patchwork](patchwork.png)
+# لاتک(نظریه زبان)
 - [Latex(tex)](fatemeolomi.tex)
 - [Latex(pdf)](fatemeolomi.pdf)
+# لاتک(روش پژوهش)
+- [Latex(tex)](lattex.tex)
+- [Latex(pdf)](latex2.pdf)
 -----------
 > ارزیابی ها
 ## بخش عمومی 
